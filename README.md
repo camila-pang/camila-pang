@@ -1,20 +1,18 @@
 ### Oi!  👋
 
+- 😄 Pronouns: she/her
 
 
 
 
 
-- 🌱 I’m currently learning Javascript, Typescript, React Js, React Native, Csharp
 
 
             
           
           
           
-- 😄 Pronouns: she/her
-
-<hr>
+- 🌱 I’m currently learning HTML 5, CSS3, Javascript, Typescript, Node.js, React Js, React Native, Csharp
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
