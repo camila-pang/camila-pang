@@ -28,9 +28,3 @@
 
 
 
-![giphy (1)](https://user-images.githubusercontent.com/58665788/166131067-cbbebdb0-2164-454b-8a29-ca2c5bb38c65.gif)
-
-           
-            
-          
-
