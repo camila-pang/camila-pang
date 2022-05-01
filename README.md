@@ -8,19 +8,7 @@
 - 🌱 I’m currently learning Javascript, Typescript, React Js, React Native, Csharp
 
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-          
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-            
            
-            
           
           
  </div>
@@ -28,6 +16,8 @@
           
           
 - 😄 Pronouns: she/her
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-pang)](https://github.com/camila-pang/github-readme-stats)
 
 
 ![Snake animation](https://github.com/camila-pang/camila-pang/blobo/output/github-contribution-grid-snake.svg)
