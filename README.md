@@ -26,8 +26,10 @@
           
 
 
-<i class="devicon-devicon-plain"></i>
-<img height ="180em" https://github-readme-stats.vercel.app/api?username=camila-pang&show_icons=true&theme=gruvbox)](https://github.com/camila-pang/github-readme-stats)/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-pang&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+   <a href="https://github.com/camila-pang">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camila-pang&show_icons=true&theme=gruvbox)](https://github.com/camila-pang/github-readme-stats/>
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-pang&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
