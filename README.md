@@ -27,7 +27,10 @@
 
 
 
-![giphy](https://user-images.githubusercontent.com/58665788/166130991-5d7040c8-f741-4485-889d-73e72416a06b.gif)
+<div height="40px" width="40px">
+        ![giphy (1)](https://user-images.githubusercontent.com/58665788/166131046-aa57dcde-c203-486c-a443-b61c77d947b3.gif)
+    
+</div>
 
            
             
