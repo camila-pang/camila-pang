@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camila-pang&label=Profile%20views&color=0e75b6&style=flat" alt="camila-pang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camila-pang" alt="camila-pang" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camila-pang&margin-w=15&theme=oldie" alt="camila-pang" /></a> </p>
 
 - 😄  Pronouns: **she/her**
  
