@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camila-pang&show_icons=true&locale=en&theme=jolly" alt="camila-pang" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camila-pang&theme=jolly" alt="camila-pang" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camila-pang&theme=jolly" alt="camila-pang" /></p>
