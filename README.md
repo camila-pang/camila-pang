@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Camila Madureira<img src="https://user-images.githubusercontent.com/58665788/169956965-5ff34946-b57c-4014-b612-68d7373917de.gif" width="95" height="95" > 
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/58665788/169957949-fd91f268-c395-4e5b-a1ed-c6559ad73f0c.gif"width="95" height="95">Hi 👋, I'm Camila Madureira<img src="https://user-images.githubusercontent.com/58665788/169956965-5ff34946-b57c-4014-b612-68d7373917de.gif" width="95" height="95" > 
 </h1>
 
 
