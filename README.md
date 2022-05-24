@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Camila Madureira</h1>
+<h1 align="center">Hi 👋, I'm Camila Madureira<img src="https://user-images.githubusercontent.com/58665788/169956965-5ff34946-b57c-4014-b612-68d7373917de.gif" width="95" height="95" > 
+</h1>
+
+
 <h3 align="center">Digital Games Student 🎮</h3>
 
 
@@ -9,6 +12,7 @@
 - 😄  Pronouns: **she/her**
  
 - 👩‍🎓 I’m currently learning **HTML 5, CSS3, Javascript, Typescript, Node.js, React Js, React Native, Csharp, MongoDB, Unity2D**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
